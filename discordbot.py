@@ -1,4 +1,3 @@
-# This example requires the 'message_content' intent.
 #APP ID: 1124912185181753394
 #Public Key: 1dd8046210b18c499414da47cdba365a22ca000be3f25d18df9746284d23b280
 import discord
